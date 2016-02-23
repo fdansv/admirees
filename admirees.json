@@ -1,0 +1,46 @@
+[
+	{ 
+		"url": "https://www.youtube.com/user/theslowmoguys", 
+		"name": "Gavin Free" 
+	}, 
+	{ 
+		"url": "http://javisantana.com/", 
+		"name": "Javi Santana" 
+	}, 
+	{ 
+		"url": "http://sivers.org/", 
+		"name": "Derek Sivers" 
+	}, 
+	{ 
+		"url": "http://javier.is/", 
+		"name": "Javier Arce" 
+	}, 
+	{ 
+		"url": "http://louisck.net/", 
+		"name": "Louis CK" 
+	}, 
+	{ 
+		"url": "http://www.hannahfry.co.uk/", 
+		"name": "Hannah Fry" 
+	}, 
+	{ 
+		"url": "https://www.gatesnotes.com/", 
+		"name": "Bill Gates" 
+	}, 
+	{ 
+		"url": "http://craigmod.com/", 
+		"name": "Craig Mod" 
+	}, 
+	{ 
+		"url": "http://codinghorror.com/", 
+		"name": "Jeff Atwood" 
+	}, 
+	{ 
+		"url": "http://macwright.org/", 
+		"name": "Tom MacWright" 
+	},
+	{ 
+		"url": "https://bost.ocks.org/mike/", 
+		"name":  "Mike Bostock"
+	}
+]
