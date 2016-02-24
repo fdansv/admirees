@@ -1,23 +1,28 @@
 [
 	{ 
 		"url": "https://www.youtube.com/user/theslowmoguys", 
-		"name": "Gavin Free" 
+		"name": "Gavin Free",
+		"desc": "Very silly English guy who created the Slo Mo Guys"
 	}, 
 	{ 
 		"url": "http://javisantana.com/", 
-		"name": "Javi Santana" 
+		"name": "Javi Santana",
+		"desc": "My boss in CartoDB, \"the smartest guy in geo you haven't heard of (yet)\""
 	}, 
 	{ 
 		"url": "http://sivers.org/", 
-		"name": "Derek Sivers" 
+		"name": "Derek Sivers",
+		"desc": "Musician who founded the biggest online indie music store, sold it for $22M, and donated it all to a music teaching trust fund."
 	}, 
 	{ 
 		"url": "http://lyzidiamond.com/", 
-		"name": "Lyzi Diamond" 
+		"name": "Lyzi Diamond",
+		"desc": "Programmer with a passion for what I hate the most about code: documenting."
 	}, 
 	{ 
 		"url": "http://javier.is/", 
-		"name": "Javier Arce" 
+		"name": "Javier Arce",
+		"desc": "Coworker and friend. His website is one of my favourite places on the internet.",
 	}, 
 	{ 
 		"url": "http://louisck.net/", 
