@@ -12,6 +12,10 @@
 		"name": "Derek Sivers" 
 	}, 
 	{ 
+		"url": "http://lyzidiamond.com/", 
+		"name": "Lyzi Diamond" 
+	}, 
+	{ 
 		"url": "http://javier.is/", 
 		"name": "Javier Arce" 
 	}, 
@@ -28,12 +32,20 @@
 		"name": "Bill Gates" 
 	}, 
 	{ 
+		"url": "https://matall.in/", 
+		"name": "Carlos Matallín" 
+	}, 
+	{ 
 		"url": "http://craigmod.com/", 
 		"name": "Craig Mod" 
 	}, 
 	{ 
 		"url": "http://codinghorror.com/", 
 		"name": "Jeff Atwood" 
+	}, 
+	{ 
+		"url": "http://www.rocioballesteros.com/", 
+		"name": "Rocio Ballesteros" 
 	}, 
 	{ 
 		"url": "http://macwright.org/", 
