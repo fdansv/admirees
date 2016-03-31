@@ -68,5 +68,10 @@
 		"url": "https://bost.ocks.org/mike/", 
 		"name":  "Mike Bostock",
 		"desc": "Creator of d3, Crossfilter and probably 30% of what makes my job great."
+	},
+	{
+		"url": "http://www.joshwaitzkin.com/",
+		"name": "Josh Waitzkin",
+		"desc": "Chess master, martial arts freak and guy with an obsession with learning. His book, The Art Of Learining is fantastic."
 	}
 ]
