@@ -48,7 +48,12 @@
 		"url": "http://craigmod.com/", 
 		"name": "Craig Mod",
 		"desc": "Writer and photographer whose life I want"
-	}, 
+	},
+	{ 
+		"url": "http://taylorswift.com/", 
+		"name": "Taylor Swift",
+		"desc": "Yep"
+	},
 	{ 
 		"url": "http://codinghorror.com/", 
 		"name": "Jeff Atwood" ,
